@@ -1,0 +1,17 @@
+type: edu
+custom_name: Simple method
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 3
+    placeholder_text: TODO()
+  - offset: 19
+    length: 6
+    placeholder_text: TODO()
+  - offset: 39
+    length: 16
+    placeholder_text: TODO()
+- name: test/Tests.kt
+  visible: false

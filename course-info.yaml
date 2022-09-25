@@ -1,0 +1,11 @@
+type: marketplace
+title: Kotlin Introduction
+language: Portuguese
+summary: |-
+  Este é um curso com exercícios básicos de introcução à linguagem Kotlin.
+  - Este curso é direcionado para iniciantes em programação e na linguagem Kotlin.
+  - Este curso cobre as funcionalidades e sintáxes básicas do Kotlin
+  - Este curso é baseado na experiência pessoal do autor com desenvolvimento Kotlin.
+programming_language: Kotlin
+content:
+- Introduction

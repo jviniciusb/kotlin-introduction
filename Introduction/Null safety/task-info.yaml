@@ -1,0 +1,13 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 41
+    length: 6
+    placeholder_text: String?
+  - offset: 61
+    length: 38
+    placeholder_text: message.uppercase().reversed()
+- name: test/Tests.kt
+  visible: false
