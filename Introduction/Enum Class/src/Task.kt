@@ -1,5 +1,5 @@
 enum class VehicleType {
     CAR,
-    MOTORCYLE,
+    MOTORCYCLE,
     AIRPLANE
 }

@@ -1,7 +1,7 @@
 #Enum Class
 
 Crie uma **enum class** para representar tipos de veículos.
-O **enum** deve se chamar **VehicleTypes** e deve conter os valores **CAR**, **MOTORCYLE** e **AIRPLANE**.
+O **enum** deve se chamar **VehicleType** e deve conter os valores **CAR**, **MOTORCYCLE** e **AIRPLANE**.
 
 Caso necessário consulte a documentação sobre [Enum classes](https://kotlinlang.org/docs/enum-classes.html).
 
